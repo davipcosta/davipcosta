@@ -106,7 +106,7 @@ Estudante de Engenharia de Computação no CESUPA (4º semestre) com interesse e
             alt="Linkedin" 
             title="Linkedin"
             width="50px" 
-            style="padding-right: 30px;" 
+            style="padding-right: 100px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
         />
     </a>
@@ -115,7 +115,7 @@ Estudante de Engenharia de Computação no CESUPA (4º semestre) com interesse e
             alt="Instagram" 
             title="Instagram"
             width="50px" 
-            style="padding-right: 30px;" 
+            style="padding-right: 100px;" 
             src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
         />
     </a>
@@ -124,7 +124,7 @@ Estudante de Engenharia de Computação no CESUPA (4º semestre) com interesse e
             alt="Email" 
             title="Email"
             width="50px" 
-            style="padding-right: 30px;" 
+            style="padding-right: 100px;" 
             src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
         />
     </a>
