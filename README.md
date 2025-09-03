@@ -110,7 +110,7 @@ Estudante de Engenharia de Computação no CESUPA (4º semestre) com interesse e
 ### Onde me encontrar
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/davi-pimentel-costa-406b7b378/" target="_blank">
+    <a href="https://www.linkedin.com/in/davipcosta1/" target="_blank">
         <img 
             alt="Linkedin" 
             title="Linkedin"
