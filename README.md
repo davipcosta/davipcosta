@@ -146,13 +146,12 @@ Estudante de Engenharia de Computação no CESUPA (4º semestre) com interesse e
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=davipcosta&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&cache_seconds=1800" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=davipcosta&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&cache_seconds=1800" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipcosta&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&cache_seconds=1800" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davipcosta&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&cache_seconds=1800" 
   />
 </p>
-
 
