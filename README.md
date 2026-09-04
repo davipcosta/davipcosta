@@ -3,7 +3,7 @@
 # Hi 👋, I'm Davi Costa
 
 **Estudante de Engenharia de Computação | Backend & IoT**  
-🇧🇷 Belém, Pará — Brasil
+Belém, Pará — Brasil
 
 Eu construo APIs, sistemas backend e pipelines de IoT que conectam hardware de verdade a software de verdade.  
 Foco em arquitetura simples, código limpo e soluções que resolvem o problema de fato.
