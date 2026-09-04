@@ -17,7 +17,7 @@ Divido meu tempo entre projetos acadêmicos no CESUPA e trabalhos freelance para
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedi&logoColor=FF00F6)](https://www.linkedin.com/in/davipcosta1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/davipcosta_)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
