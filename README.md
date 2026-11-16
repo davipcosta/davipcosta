@@ -1,4 +1,8 @@
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=300&color=00FF41&background=0D1117FF&center=true&vCenter=true&random=false&width=560&height=50&lines=davi%40dev%3A~%24%20git%20commit%20-m%20%22fix%3A%20backend%20bug%22;davipcosta%20-%20backend%20developer" alt="Typing SVG"> </a> </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=300&color=00FF41&background=0D1117FF&center=true&vCenter=true&random=false&width=560&height=50&lines=davi%40dev%3A~%24%20git%20commit%20-m%20%22fix%3A%20backend%20bug%22;davipcosta%20-%20backend%20developer" alt="Typing SVG">
+  </a>
+</div>
 
 # Hi 👋, I'm Davi Costa
 
@@ -10,12 +14,21 @@ Foco em arquitetura simples, código limpo e soluções que resolvem o problema 
 
 Divido meu tempo entre projetos acadêmicos no CESUPA e trabalhos freelance para clientes reais.
 
-#
-<h3 align="left">Connect with me!</h3>
+---
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:dpimentel.costa@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedi&logoColor=FF00F6)](https://www.linkedin.com/in/davipcosta1/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/davipcosta_)
+### Connect with me!
+
+<p align="left">
+  <a href="mailto:dpimentel.costa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/davipcosta1/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/davipcosta_">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram">
+  </a>
+</p>
 
 ## Tech Stack
 
@@ -49,21 +62,17 @@ Divido meu tempo entre projetos acadêmicos no CESUPA e trabalhos freelance para
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=davipcosta&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipcosta&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
-</p>
-<br/>
-<br/>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davipcosta&theme=github_dark" height="170" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davipcosta&theme=github_dark" height="170" alt="Linguagens mais usadas">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=davipcosta&locale=pt_BR&theme=dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&hide_border=true" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davipcosta&bg_color=000000&color=ffffff&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade">
+</div>
